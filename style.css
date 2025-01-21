@@ -1,0 +1,70 @@
+body { 
+    margin: 0; 
+    padding: 0; 
+    background-image: url('./assets/fftexample.png');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+}
+
+section{
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 2px;
+    margin: 0;
+}
+
+.profile-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+h1{
+    font-family: "Sacramento", cursive;
+    color: rgb(50, 187, 241);
+}
+
+h2{
+    font-family: "Monserrat", sans-serif;
+    color: rgb(50, 187, 241);
+}
+
+h4{
+    color: rgb(50, 187, 241);
+}
+
+li{
+    font-size: 25px;
+}
+
+.contact-me{
+    text-align: center;
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn { 
+    background-color: #4CAF50; /* Verde */ 
+    border: none; 
+    color: blanco; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+}
+.bottom-container{
+    background-color: #14c2ee;
+    text-align: center;
+    padding: 20px;
+}
+
+a{
+    color: red;
+}
+
+.copyright{
+    padding: 20px;
+}
